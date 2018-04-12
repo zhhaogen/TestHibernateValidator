@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+repositories {
+  
+    jcenter()
+}
+
+dependencies {
+ 
+  compile 'org.hibernate.validator:hibernate-validator:6.0.7.Final'
+ compile 'org.glassfish:javax.el:3.0.1-b09'
+    testImplementation 'junit:junit:4.12'
+}
+
