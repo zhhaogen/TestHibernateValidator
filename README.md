@@ -1,0 +1,2 @@
+# TestHibernateValidator
+单HibernateValidator使用例子
